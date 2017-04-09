@@ -22,7 +22,12 @@ import java.util.Map;
 
 /**
  * Created by fran on 06.04.17..
+ *
+ *
+ *  todo replace functionList with another mechanism of storing functions, preferably with auto-add feature (createBotFunction)
  */
+
+
 public class ChannelLikeBot extends TelegramLongPollingBot {
 
     private static final String thumbsup = EmojiParser.parseToUnicode(":thumbsup:");
