@@ -1,4 +1,4 @@
-package com.goldner.telegram.channelLikeBot;
+package xyz.goldner.telegram.channelLikeBot;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

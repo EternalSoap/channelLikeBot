@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="channelLikeBot" target="1.6" />
+      <module name="channelLikeBot" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
