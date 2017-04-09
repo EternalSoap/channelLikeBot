@@ -32,6 +32,8 @@ public class App
             e.printStackTrace();
         }
 
+        Runtime.getRuntime().addShutdownHook(new Thread(() -> databaseList.stream().forEach(database -> database.disconnect())));
+
     }
 
 }

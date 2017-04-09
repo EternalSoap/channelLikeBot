@@ -257,6 +257,6 @@ public class ChannelLikeBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "";
+        return "337076832:AAGpnBuketcGI3DsvuCcGPBcGenpD6cX2pw";
     }
 }
