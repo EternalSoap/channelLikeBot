@@ -11,7 +11,7 @@ import java.util.List;
 public class App
 {
 
-    private static final String CHANNEL_ID = "@TestingThisShit";
+    private static final String CHANNEL_ID = "@aesthy";
 
     private static final int CHANNEL_LIKE_BOT_DB = 1;
 

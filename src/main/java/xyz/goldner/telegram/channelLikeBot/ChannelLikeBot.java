@@ -25,6 +25,8 @@ import java.util.Map;
  *
  *
  *  todo replace functionList with another mechanism of storing functions, preferably with auto-add feature (createBotFunction)
+ *  todo add unlike/undislike mechanism
+ *  todo more commands
  */
 
 
@@ -257,6 +259,6 @@ public class ChannelLikeBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "337076832:AAGpnBuketcGI3DsvuCcGPBcGenpD6cX2pw";
+        return "";
     }
 }
